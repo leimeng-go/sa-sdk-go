@@ -1,3 +1,5 @@
+//go:build darwin || linux
+
 /*
  * Created by dengshiwei on 2020/01/06.
  * Copyright 2015－2020 Sensors Data Inc.
@@ -14,7 +16,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
 package consumers
 
 import (
