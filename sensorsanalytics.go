@@ -19,8 +19,8 @@ package sensorsanalytics
 
 import (
 	"errors"
-	"github.com/sensorsdata/sa-sdk-go/consumers"
-	"github.com/sensorsdata/sa-sdk-go/utils"
+	"github.com/leimeng-go/sa-sdk-go/consumers"
+	"github.com/leimeng-go/sa-sdk-go/utils"
 )
 
 const (

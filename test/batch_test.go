@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"testing"
 
-	sdk "github.com/sensorsdata/sa-sdk-go"
+	sdk "github.com/leimeng-go/sa-sdk-go"
 )
 
 func TestBatchConsumer(t *testing.T) {

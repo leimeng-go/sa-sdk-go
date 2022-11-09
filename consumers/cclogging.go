@@ -25,7 +25,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/sensorsdata/sa-sdk-go/structs"
+	"github.com/leimeng-go/sa-sdk-go/structs"
 )
 
 type ConcurrentLoggingConsumer struct {
